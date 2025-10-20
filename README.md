@@ -69,9 +69,8 @@ Hospital-Management-Project/
 ├── interface.php # Formulaire de recherche utilisateur  
 ├── resultats.php # Page affichant les résultats des requêtes SQL   
 ├── style.css # Styles pour interface.php   
-├── style1.css # Styles pour resultats.php   
-├── database/  
-│ ├── All-Tables-Setup.sql # Création des tables et insertion des données   
-│ └── Queries-Examples.sql # Exemples de requêtes et de procédures de gestion   
+├── style1.css # Styles pour resultats.php     
+├── Requetes-Exemples-BD.sql # Exemples de requêtes et de procédures de gestion  
+├── ToutesTables-ProjetBD.sql # Création des tables et insertion des données      
 └── README.md
 
